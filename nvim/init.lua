@@ -28,7 +28,7 @@ opt.incsearch = true
 opt.hlsearch = true
 
 opt.spell = true
-opt.spelllang = 'en'
+opt.spelllang = 'en_gb'
 
 opt.expandtab = true
 opt.tabstop = 2
