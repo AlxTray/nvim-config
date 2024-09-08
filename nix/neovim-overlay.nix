@@ -61,6 +61,7 @@ with final.pkgs.lib; let
     statuscol-nvim # Status column | https://github.com/luukvbaal/statuscol.nvim/
     nvim-treesitter-context # nvim-treesitter-context
     yazi-nvim # Yazi filemanager as a popup
+    indent-blankline-nvim # Indentation guides as virtual text
     # ^ UI
     # language support
     # ^ language support
